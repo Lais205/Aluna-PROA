@@ -12,5 +12,5 @@ Apresento meu primeiro projeto no figma. Nele eu fiz uma releitura do site da CN
 3- 5 curiosidades sobre o girassol <br><br>
 
 🖥️ **Tecnologias utilizadas:**<br><br>
-FIGMA
+<img  width="24px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054550678493741146/figma.png" />  Figma
 
